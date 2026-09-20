@@ -52,7 +52,7 @@ Bem-vindo(a) ao meu portfólio! Aqui você encontra projetos práticos de Análi
 - 🔗 **[Ver Dashboard Interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmFlMDBhZDItMTdjNy00Nzk2LWFjODktMWFlM2Q4NzA0ODYzIiwidCI6IjEzNDBhYWVlLTJlMTQtNDNjZi1iMjIwLTlhMzQ4NTNkZDQ2MyJ9)**
 - 📁 **[Ver detalhes do projeto](./README_Analise_RH.md)**
 
-![Dashboard de RH](./imagens_dashboard/recursoshumanos/print_rh1.png)
+![Dashboard de RH](./imagens_dashboard/recursos_humanos/print_rh1.png)
 ---
 
 ### 5. 🗄️ Portfólio de Análise de Dados em SQL Server (AdventureWorks)
