@@ -31,6 +31,7 @@ Bem-vindo(a) ao meu portfólio! Aqui você encontra projetos práticos de Análi
 - 🔗 **[Ver Dashboard Interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiOGI4YjRlNGMtOTUzZi00NGE5LTgxYmYtMDJjNTg5ZWM1NGM1IiwidCI6IjEzNDBhYWVlLTJlMTQtNDNjZi1iMjIwLTlhMzQ4NTNkZDQ2MyJ9)**
 - 📁 **[Ver detalhes do projeto](./README_vendas.md)**
 
+![Dashboard de Vendas](./print_vendas1.png)
 ---
 
 ### 3. 💰 Dashboard Contábil e Financeiro (Power BI)
@@ -41,6 +42,7 @@ Bem-vindo(a) ao meu portfólio! Aqui você encontra projetos práticos de Análi
 - 🔗 **[Ver Dashboard Interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiOGI4N2MyNDUtYzNmYi00YzJkLTg1YTMtMmFlYWZhODMzYmYzIiwidCI6IjEzNDBhYWVlLTJlMTQtNDNjZi1iMjIwLTlhMzQ4NTNkZDQ2MyJ9)**
 - 📁 **[Ver detalhes do projeto](./README_Financeiro.md)**
 
+![Dashboard Financeiro](./print_financias1.png)
 ---
 
 ### 4. 👥 Dashboard de Recursos Humanos (Power BI)
@@ -50,6 +52,7 @@ Bem-vindo(a) ao meu portfólio! Aqui você encontra projetos práticos de Análi
 - 🔗 **[Ver Dashboard Interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmFlMDBhZDItMTdjNy00Nzk2LWFjODktMWFlM2Q4NzA0ODYzIiwidCI6IjEzNDBhYWVlLTJlMTQtNDNjZi1iMjIwLTlhMzQ4NTNkZDQ2MyJ9)**
 - 📁 **[Ver detalhes do projeto](./README_Analise_RH.md)**
 
+![Dashboard de RH](./print_rh1.png)
 ---
 
 ### 5. 🗄️ Portfólio de Análise de Dados em SQL Server (AdventureWorks)
