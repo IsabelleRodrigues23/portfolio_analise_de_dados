@@ -61,6 +61,11 @@ Quantidade de funcionários por departamento, nome completo e cargo, tempo médi
 - **RFM não filtrado por período**: a `sp_RelatorioExecutivo` filtra vendas por data, mas o segmento RFM de cada cliente reflete o histórico *completo* dele, não o período filtrado — é uma decisão intencional, já que o perfil de cliente (VIP, Fiel etc.) é uma classificação de longo prazo.
 - **`ShipDate` sintético e sem variação real**: a análise de tempo médio entre pedido e envio (`OrderDate` → `ShipDate`) por território retornou exatamente **7,00 dias para todos os territórios**, sem nenhuma variação. Isso indica que o dataset gera `ShipDate` como uma regra fixa (`OrderDate + 7 dias`), sem simular diferenças reais de logística por distância geográfica — uma limitação conhecida do dataset sintético, documentada aqui em vez de ser omitida.
 
+---
+## 📁 Acesso aos Arquivos
+Para visualizar os scripts organizados por módulos (Clientes, Vendas, RH, Produtos, Views e Procedures), acesse:
+👉 **[Navegar pela pasta portfolio_sql](./portfolio_sql)**
+
 ## Ferramentas
 SQL Server 2022 · SSMS · Dataset AdventureWorks2022 (Microsoft)
 
