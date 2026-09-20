@@ -20,6 +20,7 @@ Bem-vindo(a) ao meu portfólio! Aqui você encontra projetos práticos de Análi
 - 🔗 **[Ver Dashboard Interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjI3ZDgyMzYtZGJhZS00N2FjLWJiNWQtMTQzYTE3YWFiNGEyIiwidCI6IjEzNDBhYWVlLTJlMTQtNDNjZi1iMjIwLTlhMzQ4NTNkZDQ2MyJ9)**
 - 📁 **[Ver detalhes do projeto](./README_dashboard_marketing.md)**
 
+![Dashboard de Marketing](./print_marketing1.png)
 ---
 
 ### 2. 🛒 Dashboard de Vendas e Logística (Power BI)
