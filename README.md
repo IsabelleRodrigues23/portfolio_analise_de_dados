@@ -57,6 +57,7 @@ Bem-vindo(a) ao meu portfólio! Aqui você encontra projetos práticos de Análi
 - **Técnicas aplicadas:** CTEs, window functions (`LAG`, `NTILE`, `RANK`, `ROW_NUMBER`, soma acumulada), segmentação de clientes via **RFM**, **Análise de Pareto (80/20)**, e **CTE recursiva com `hierarchyid`/`GetAncestor()`** para reconstruir a hierarquia organizacional completa da empresa a partir do CEO.
 - **Destaques técnicos:** identificação e correção de um bug real de dados (nó de hierarquia do CEO nulo no banco, resolvido com `hierarchyid::GetRoot()`), e uma stored procedure "mestra" (`sp_RelatorioExecutivo`) que devolve um relatório executivo completo — KPIs, top produtos, receita por categoria e distribuição de clientes por segmento — em uma única chamada parametrizada por período.
 - 📁 **[Ver o projeto completo e o README técnico](./README_SQL.md)**
+- 📂 **[Acesse a pasta com todas as queries, views e procedures completas](./portfolio_sql)**
 
 ---
 
