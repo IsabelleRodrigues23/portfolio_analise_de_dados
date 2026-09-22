@@ -13,6 +13,8 @@ Esse dashboard nasceu como treino de DAX e Power BI, mas evoluiu para uma análi
 3. **Satisfação do Cliente** — distribuição de avaliações, nota média por estado e por categoria, impacto do atraso na nota do cliente
 4. **Projeções e Tendência Futura** — variação mês a mês, taxa de crescimento média, projeção do próximo mês, tendência de atraso, e conclusão consolidada com recomendações
 
+- 🔗 **[Ver Dashboard Interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiOGI4YjRlNGMtOTUzZi00NGE5LTgxYmYtMDJjNTg5ZWM1NGM1IiwidCI6IjEzNDBhYWVlLTJlMTQtNDNjZi1iMjIwLTlhMzQ4NTNkZDQ2MyJ9)**
+
 ## Período considerado
 
 **Janeiro/2017 a agosto/2018.**
