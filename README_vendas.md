@@ -67,6 +67,11 @@ Como a avaliação é feita por pedido e um pedido pode conter produtos de categ
 - Power BI Desktop (modelagem, DAX, visualização)
 - Power Query (limpeza e transformação de dados)
 
-## Autor
+---
 
-Projeto desenvolvido como parte de portfólio de transição de carreira para análise de dados.
+## ✉️ Contato
+Desenvolvido por **Isabelle Rodrigues**  
+
+- 💼 **LinkedIn:** [Isabelle Rodrigues](https://www.linkedin.com/in/isabelle-rodrigues-18177b3b1)
+- 🐙 **GitHub:** [IsabelleRodrigues23](https://github.com/IsabelleRodrigues23)
+- 📧 **E-mail:** [isabellerodrigues0423@gmail.com](mailto:isabellerodrigues0423@gmail.com)
