@@ -23,6 +23,8 @@ Comparativo de ROAS, CPC e CPM por plataforma, mapa de eficiência (custo x reto
 ### 4. Geografia
 Distribuição de investimento e retorno por país, por nível de mercado (Tier) e detalhamento completo por país.
 
+- 🔗 **[Ver Dashboard Interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjI3ZDgyMzYtZGJhZS00N2FjLWJiNWQtMTQzYTE3YWFiNGEyIiwidCI6IjEzNDBhYWVlLTJlMTQtNDNjZi1iMjIwLTlhMzQ4NTNkZDQ2MyJ9)**
+
 ## Principais insights
 
 - **Google Search é o canal mais eficiente com folga**: ROAS geral de 3,78x (chegando a 16,78x em campanhas de Vendas), respondendo por 65% de toda a receita rastreada com apenas 22% do investimento total.
