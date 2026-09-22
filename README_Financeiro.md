@@ -42,6 +42,8 @@ Os dois números contam histórias diferentes e complementares: um mostra concen
 
 Vale reforçar também que, dos 8 setores do dataset, apenas 3 (Tecnologia da Informação, Banco e Eletrônicos/Eletricidade) têm mais de uma empresa representando-os. Os outros 5 setores (Logística, Finanças, Alimentação, Manufatura/Indústria e Fintech) são representados por uma única empresa cada — então, para esses casos, os gráficos "por setor" mostram, na prática, o desempenho daquela empresa específica, não uma média real de mercado.
 
+- 🔗 **[Ver Dashboard Interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiOGI4N2MyNDUtYzNmYi00YzJkLTg1YTMtMmFlYWZhODMzYmYzIiwidCI6IjEzNDBhYWVlLTJlMTQtNDNjZi1iMjIwLTlhMzQ4NTNkZDQ2MyJ9)**
+
 ## Estrutura do dashboard
 
 ### Página 1 — Visão Geral
@@ -68,7 +70,7 @@ Gráficos: Receita Média por Setor, Margem Líquida Média por Setor, ROE Médi
 **Insight:** o Mapa de Eficiência mostra Tecnologia da Informação no quadrante ideal (receita alta e margem alta), Logística com receita altíssima mas margem baixa (modelo de alto volume/baixa margem, típico de varejo), e Finanças/Manufatura com margem negativa — reforçando a mesma história de risco (AIG e Sears) já vista na Página 3.
 
 ## Ferramentas
-Power BI Desktop, DAX para as medidas, Python (pandas) para validação dos dados antes e durante a construção do dashboard.
+Power BI Desktop, DAX para as medidas, Excel (tradução e organização inicial dos dados).
 
 ---
 
