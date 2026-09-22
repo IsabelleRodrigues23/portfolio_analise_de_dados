@@ -37,6 +37,8 @@ Outros fatores investigados (estado civil, escolaridade, % de aumento salarial, 
 
 **Efeito cumulativo:** quando os três fatores mais fortes são combinados — hora extra, baixa satisfação e baixo equilíbrio vida-trabalho — a taxa de saída sobe para **41,03%** (amostra de 39 funcionários), mais que o dobro da taxa geral da empresa (16,12%). Isso indica que os fatores se reforçam mutuamente, e não atuam de forma isolada.
 
+- 🔗 **[Ver Dashboard Interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmFlMDBhZDItMTdjNy00Nzk2LWFjODktMWFlM2Q4NzA0ODYzIiwidCI6IjEzNDBhYWVlLTJlMTQtNDNjZi1iMjIwLTlhMzQ4NTNkZDQ2MyJ9)**
+
 ## Recomendação
 
 Recomenda-se que a área de RH priorize o monitoramento de funcionários que se enquadram nesse perfil combinado, especialmente nos primeiros dois anos de empresa, período em que a rotatividade é mais concentrada. Ações como revisão da política de horas extras e acompanhamento próximo da satisfação no início do vínculo podem ter maior impacto na retenção do que medidas genéricas aplicadas a toda a base de funcionários.
