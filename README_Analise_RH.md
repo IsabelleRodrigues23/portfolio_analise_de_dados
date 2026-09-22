@@ -6,7 +6,7 @@ Este dashboard investiga os principais fatores associados à saída (attrition) 
 
 ## Fonte de Dados
 
-Dataset **IBM HR Analytics Employee Attrition** (Kaggle), contendo 1.470 registros de funcionários com informações demográficas, salariais, de satisfação e de histórico na empresa.
+Dataset **[IBM HR Analytics Employee Attrition](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)**, contendo 1.470 registros de funcionários com informações demográficas, salariais, de satisfação e de histórico na empresa.
 
 ## Estrutura do Dashboard
 
